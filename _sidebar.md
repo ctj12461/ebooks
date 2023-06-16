@@ -1,0 +1,8 @@
+- 基地
+  - [基地前奏](/src/foundation/prelude-to-foundation.md)
+  - [迈向基地](/src/foundation/forward-the-foundation.md)
+  - [基地](/src/foundation/foundation.md)
+  - [基地与帝国](/src/foundation/foundation-and-empire.md)
+  - [第二基地](/src/foundation/second-foundation.md)
+  - [基地边缘](/src/foundation/foundations-edge.md)
+  - [基地与地球](/src/foundation/foundation-and-earth.md)

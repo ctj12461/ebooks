@@ -17,7 +17,7 @@ jobs:
           path: 'source'
       
       - name: Clone Destination Repo
-        run: git clone https://github.com/ctj12461/ctj12461.github.io dest
+        run: git clone https://github.com/ctj12461/site-output dest
       
       - run: cp -rf ./source/* ./dest/ebooks
 
